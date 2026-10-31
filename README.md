@@ -4,7 +4,7 @@ Plastik enjeksiyon hattında vardiya bazlı üretim, fire ve duruş kayıtların
 
 Bu proje, *Web Geliştirme; Yapay Zeka* eğitim programı kapsamında hazırlanmıştır. Fikir, bir plastik fabrikasında makine mühendisi olarak üretim hattında yaşadığım gerçek bir ihtiyaçtan çıktı: vardiya sonu duruş bilgileri çoğu zaman kağıda ya da dağınık Excel dosyalarına yazılıyor ve hangi nedenin en çok kayba yol açtığını görmek zorlaşıyor.
 
-🔗 **Canlı demo:** _Netlify linki buraya eklenecek_
+🔗 **Canlı demo:** https://hattakiplastik.netlify.app/
 
 ![Gösterge Paneli](screenshots/01-gosterge-paneli.png)
 
